@@ -4,8 +4,8 @@ background: #444
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Solid.js Journey
-  Coven of Wisdom
+  ## New Suspense Architecture in React 18
+  React Live
 drawings:
   persist: false
 transition: slide-left
