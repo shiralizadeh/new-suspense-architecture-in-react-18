@@ -58,6 +58,30 @@ src: ./slides/04-client-04.md
 ---
 
 ---
+src: ./slides/04-client-05.md
+---
+
+---
+src: ./slides/05-server-00.md
+---
+
+---
+src: ./slides/05-server-01.md
+---
+
+---
+src: ./slides/05-server-02.md
+---
+
+---
+src: ./slides/05-server-03.md
+---
+
+---
+src: ./slides/05-server-04.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 

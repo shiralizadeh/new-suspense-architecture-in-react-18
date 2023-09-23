@@ -3,6 +3,6 @@ layout: default
 class: text-2xl
 ---
 
-# Ohhhh, that's why!
+# Client **`render`** function
 
-<img src="/images/04-client-04.png" style="margin-top: -2rem;" />
+<img src="/images/04-client-04.png" class="mt-20" />
