@@ -30,6 +30,14 @@ src: ./slides/03-what-01.md
 ---
 
 ---
+src: ./slides/03-what-02.md
+---
+
+---
+src: ./slides/03-what-03.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 

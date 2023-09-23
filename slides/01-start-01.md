@@ -6,7 +6,7 @@ layout: cover
   New suspense architecture in React 18
 </h1>
 
-<h2 class="text-blue-100">
+<h2 class="text-blue-200">
   Suspense is naughty!
 </h2>
 
