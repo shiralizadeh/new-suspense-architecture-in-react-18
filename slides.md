@@ -38,6 +38,26 @@ src: ./slides/03-what-03.md
 ---
 
 ---
+src: ./slides/04-client-00.md
+---
+
+---
+src: ./slides/04-client-01.md
+---
+
+---
+src: ./slides/04-client-02.md
+---
+
+---
+src: ./slides/04-client-03.md
+---
+
+---
+src: ./slides/04-client-04.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 

@@ -8,7 +8,7 @@ class: text-2xl
 
 - A bit of **history**
 - What does **Suspense** do?
-- Suspense at the **Client**!
-- Suspense at the **Server**!
+- Behaviors at the **Client**!
+- Behaviors at the **Server**!
 - Suspense in **React 18**
 - **Suspenseful** components!
