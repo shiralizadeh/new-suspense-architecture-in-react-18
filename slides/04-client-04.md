@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: cover
 class: text-2xl
 ---
 
-# Client **`render`** function
+# Let's play **Client** Suspense!
 
-<img src="/images/04-client-04.png" class="mt-20" />

@@ -8,6 +8,9 @@ class: text-2xl
 - `renderToString`
 - `renderToStaticMarkup`
 - `renderToStaticNodeStream`
+<!-- 
 - `renderToPipeableStream`
 - `renderToReadableStream`
+-->
+
 - ~~`renderToNodeStream`~~

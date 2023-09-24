@@ -22,6 +22,10 @@ src: ./slides/01-start-03.md
 ---
 
 ---
+src: ./slides/01-start-04.md
+---
+
+---
 src: ./slides/02-history-01.md
 ---
 
@@ -59,6 +63,10 @@ src: ./slides/04-client-04.md
 
 ---
 src: ./slides/04-client-05.md
+---
+
+---
+src: ./slides/04-client-06.md
 ---
 
 ---
