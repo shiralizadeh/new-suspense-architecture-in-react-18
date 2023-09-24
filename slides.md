@@ -90,6 +90,26 @@ src: ./slides/05-server-04.md
 ---
 
 ---
+src: ./slides/06-react-00.md
+---
+
+---
+src: ./slides/06-react-01.md
+---
+
+---
+src: ./slides/06-react-02.md
+---
+
+---
+src: ./slides/06-react-03.md
+---
+
+---
+src: ./slides/06-react-04.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 
