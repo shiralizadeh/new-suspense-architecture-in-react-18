@@ -3,10 +3,8 @@ layout: default
 class: text-2xl
 ---
 
-# SSR
+# **Problem** time!
 
-- Improved **SEO**
-- **Faster** Initial Page Load
-- Progressive **Enhancement**
-
-<img src="/images/05-server-01.png" class="w-130 absolute top-5 right-10" />
+<div class="overflow-auto h-full">
+  <img src="/images/06-react-01.png" class="w-200 m-auto" />
+</div>

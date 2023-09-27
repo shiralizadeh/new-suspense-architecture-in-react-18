@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: cover
 class: text-2xl
 ---
 
-# Aha! **Next.js**!
-
-<img src="/images/05-server-04.png" class="w-200 m-auto" />
+# Let's play **React 18** Suspense!

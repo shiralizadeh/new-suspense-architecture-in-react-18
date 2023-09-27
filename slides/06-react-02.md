@@ -3,7 +3,8 @@ layout: default
 class: text-2xl
 ---
 
-# **`react-dom/server`** in React 18
+# **Solution** time!
 
-- `renderToPipeableStream`
-- `renderToReadableStream`
+<div class="overflow-auto h-full">
+  <img src="/images/06-react-02.png" class="w-200 m-auto" />
+</div>

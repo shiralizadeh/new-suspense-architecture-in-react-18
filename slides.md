@@ -110,6 +110,10 @@ src: ./slides/06-react-04.md
 ---
 
 ---
+src: ./slides/06-react-05.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 

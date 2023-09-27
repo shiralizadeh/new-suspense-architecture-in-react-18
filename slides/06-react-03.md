@@ -1,13 +1,9 @@
 ---
-layout: cover
+layout: default
 class: text-2xl
 ---
 
-# Let's play **Server** Suspense!
+# **`react-dom/server`** in React 18
 
-<!--
-ts-react-17 (r17-renderToString) => Error
-next-12-app (main)
-next-12-app (n12-r17-lazy) => Error
-next-12-app (n12-r17-dynamic)
--->
+- `renderToPipeableStream`
+- `renderToReadableStream`
