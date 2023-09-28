@@ -1,6 +1,8 @@
 ---
-layout: cover
+layout: default
 class: text-2xl
 ---
 
-# Let's play **React 18** Suspense!
+# Does **Stream SSR** help?!
+
+<img src="/images/06-react-03.png" class="mt-20 m-auto" />

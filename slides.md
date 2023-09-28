@@ -114,6 +114,18 @@ src: ./slides/06-react-05.md
 ---
 
 ---
+src: ./slides/06-react-06.md
+---
+
+---
+src: ./slides/07-component-00.md
+---
+
+---
+src: ./slides/07-component-01.md
+---
+
+---
 src: ./slides/99-end-01.md
 ---
 

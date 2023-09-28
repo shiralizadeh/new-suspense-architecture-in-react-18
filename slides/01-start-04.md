@@ -11,4 +11,4 @@ class: text-2xl
 - Behaviors at the **Client**!
 - Behaviors at the **Server**!
 - Suspense in **React 18**
-- **Suspenseful** components!
+- **Suspenseful** Hook!
